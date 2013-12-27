@@ -97,7 +97,7 @@
 */
 	.pages {
 		min-height: 600px;
-		padding: 100px 0;
+		padding: 0px;
 	}
 	#page1 {
 		background-color: white;
